@@ -1,0 +1,17 @@
+A 10000001 John Doe
+A 10000002 Jane Smith
+A 10000003 Bob Johnson
+A 10000004 Alice Williams
+A 10000005 Charlie Brown
+L
+X 10000002
+L
+X 10000001
+X 10000005
+L
+A 10000006 David Lee
+A 10000007 Emma Davis
+L
+X 10000003
+L
+
