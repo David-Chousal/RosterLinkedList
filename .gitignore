@@ -1,0 +1,17 @@
+# Compiled object files
+*.o
+
+# Executables
+rosterllisttest
+
+# Build artifacts
+*.dSYM/
+*.tar
+
+# macOS
+.DS_Store
+
+# Editor files
+*.swp
+*~
+
